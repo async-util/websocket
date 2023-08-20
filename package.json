@@ -1,0 +1,24 @@
+{
+  "name": "@async-util/websocket",
+  "version": "0.1.0",
+  "description": "A super lightweight lib to get websocket events in async style.",
+  "main": "index.mjs",
+  "types": "index.d.mts",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/async-util/websocket.git"
+  },
+  "keywords": [
+    "async",
+    "websocket"
+  ],
+  "author": "Tal (talrasha007@gmail.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/async-util/websocket/issues"
+  },
+  "homepage": "https://github.com/async-util/websocket#readme"
+}

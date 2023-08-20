@@ -1,0 +1,7 @@
+{
+  "name": "@async-util/websocket-example",
+  "dependencies": {
+    "@async-util/websocket": "file:..",
+    "ws": "^8.13.0"
+  }
+}
