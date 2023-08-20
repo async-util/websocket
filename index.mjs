@@ -1,4 +1,4 @@
-export async function *getWsEvents(ws) {
+export async function *getWsData(ws) {
   let resolve, reject, done = false, error;
   const buffer = [];
 
@@ -33,4 +33,4 @@ export async function *getWsEvents(ws) {
   }
 }
 
-export default getWsEvents;
+export default getWsData;

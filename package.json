@@ -1,6 +1,6 @@
 {
   "name": "@async-util/websocket",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A super lightweight lib to get websocket events in async style.",
   "main": "index.mjs",
   "types": "index.d.mts",

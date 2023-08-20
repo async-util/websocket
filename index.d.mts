@@ -1,2 +1,2 @@
-export function getWsEvents(ws: WebSocket): AsyncIterableIterator<String | Blob>;
-export default getWsEvents;
+export function getWsData(ws: WebSocket): AsyncIterableIterator<String | Blob | Buffer>;
+export default getWsData;
